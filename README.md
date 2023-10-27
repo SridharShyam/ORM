@@ -40,7 +40,8 @@ admin.site.register(Football_Player,Football_PlayerAdmin)
 ```
 
 ## OUTPUT
-![Alt text](<Screenshot (3).png>)
+![image](https://github.com/SridharShyam/ORM/assets/144871368/eb100ec6-ec10-41fe-81a9-3fe4a706013e)
+
 
 
 ## RESULT
