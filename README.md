@@ -40,8 +40,7 @@ admin.site.register(Football_Player,Football_PlayerAdmin)
 ```
 
 ## OUTPUT
-![image](https://github.com/SridharShyam/ORM/assets/144871368/eb100ec6-ec10-41fe-81a9-3fe4a706013e)
-
+![image](https://github.com/SridharShyam/ORM/assets/144871368/bce0caf0-c4e6-4ce2-bfe7-29eb345f3e27)
 
 
 ## RESULT
